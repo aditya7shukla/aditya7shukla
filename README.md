@@ -27,7 +27,8 @@ Computer Science student passionate about Machine Learning, Web Development, and
 - More coming soon...
 
 ## Stats
-https://github-readme-stats.vercel.app/api?username=aditya7shukla
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aditya7shukla&show_icons=true&theme=github_dark) 
+![GitHub Streak](https://streak-stats.demolab.com?user=aditya7shukla&theme=github-dark)
 
 ## 🎯 Goals for 2026
 

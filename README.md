@@ -19,6 +19,9 @@ Computer Science student passionate about Machine Learning, Web Development, and
 - CSS
 - Git
 - Linux
+<p align="left">
+<img src="https://skillicons.dev/icons?i=cpp,python,js,html,css,git,github,linux,vscode" />
+</p>
 
 ## Stats
 

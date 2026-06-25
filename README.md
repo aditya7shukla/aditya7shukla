@@ -35,9 +35,6 @@ Computer Science student passionate about Machine Learning, Web Development, and
 - ✂️ Rock Paper Scissors
 - More coming soon...
 
-## Stats
-https://github-readme-stats.vercel.app/api?username=aditya7shukla
-
 ## 🎯 Goals for 2026
 
 - Contribute to Open Source

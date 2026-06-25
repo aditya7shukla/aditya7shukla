@@ -20,6 +20,12 @@ Computer Science student passionate about Machine Learning, Web Development, and
 - Git
 - Linux
 
+## Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aditya7shukla&show_icons=true&theme=github_dark) 
+![GitHub Streak](https://streak-stats.demolab.com?user=aditya7shukla&theme=github-dark) 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aditya7shukla&layout=compact&theme=github_dark)
+
 ## 📌 Featured Projects
 
 - 💰 Expense Tracker
